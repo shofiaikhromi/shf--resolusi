@@ -2,8 +2,8 @@ RENCANA KONTEN SHF
 
 - Belajar ngoding
 * Python
+  ^ IF &ELSE
 * Javascript
 - Belajar kaggle & Github
-- Vlogs
 - About Data Analyst
 - Journey Kuliah
