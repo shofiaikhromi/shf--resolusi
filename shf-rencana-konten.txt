@@ -6,7 +6,6 @@ RENCANA KONTEN SHF
   ^ Tupple
 * Javascript
 - Belajar kaggle & Github
-- Vlogs
 - About Data Analyst
 - Journey Kuliah
 - Belajar excel
