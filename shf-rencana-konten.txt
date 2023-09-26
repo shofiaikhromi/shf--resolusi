@@ -1,6 +1,8 @@
 RENCANA KONTEN SHF
 
 - Belajar ngoding
+* Python
+* Javascript
 - Vlogs
 - About Data Analyst
 - Journey Kuliah
