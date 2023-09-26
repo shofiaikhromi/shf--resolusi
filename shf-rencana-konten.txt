@@ -3,6 +3,7 @@ RENCANA KONTEN SHF
 - Belajar ngoding
 * Python
 * Javascript
+- Belajar kaggle & Github
 - Vlogs
 - About Data Analyst
 - Journey Kuliah
