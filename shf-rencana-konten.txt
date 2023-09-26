@@ -2,8 +2,11 @@ RENCANA KONTEN SHF
 
 - Belajar ngoding
 * Python
+  ^ Pandas
+  ^ Tupple
 * Javascript
 - Belajar kaggle & Github
 - Vlogs
 - About Data Analyst
 - Journey Kuliah
+- Belajar excel
