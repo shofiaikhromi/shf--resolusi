@@ -5,6 +5,7 @@ RENCANA KONTEN SHF
   ^ Pandas
   ^ Tupple
   ^ visualisasi
+  ^ data cleaning
 * Javascript
 - Belajar kaggle & Github
 - About Data Analyst
