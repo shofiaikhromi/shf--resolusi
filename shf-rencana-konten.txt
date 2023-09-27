@@ -4,6 +4,8 @@ RENCANA KONTEN SHF
 * Python
   ^ Pandas
   ^ Tupple
+  ^ visualisasi
+  ^ data cleaning
 * Javascript
 - Belajar kaggle & Github
 - About Data Analyst
